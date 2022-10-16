@@ -10,7 +10,7 @@
 - ### Alex Wang: [Role]
   > Fourth Year, Computer Engineering, Warren College
   > - Personal Github Page: https://alw002.github.io/
-- ### Aiden Jee: [Role]
+- ### Aiden Jee: Team Member
   > Fourth Year CS Major, Muir College
   > - Personal Github Page: 
 - ### Alan Wen: Team Lead
